@@ -4,7 +4,6 @@
 
 - 👂 I'm Jampier
 - ⚡ I'm 22 years old
-- 😄 Pronouns: He/Him
 - 🔭 I'm currently working on Unity Project
 - 🌱 I'm currently learning C#
 - 👯 I'm looking to collaborate on Web & Mobile Projects
