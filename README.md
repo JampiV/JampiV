@@ -1,5 +1,5 @@
 <p align="center">    
-  <font size="5">
+  <font size="20">
     <b>👋 Hi there</b>
 </p>
 <hr>
