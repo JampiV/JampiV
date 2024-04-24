@@ -7,4 +7,4 @@
 - 👯 I'm looking to collaborate on Web & Mobile Projects
 - 📫 How to reach me: linkedin.com/in/jampier-ventura-hernandez
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JampiV&show_icons=true&theme=dracula)](https://github.com/JampiV/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JampiV&theme=synthwave&border_radius=3.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
