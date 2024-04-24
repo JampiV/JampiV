@@ -1,5 +1,6 @@
-<p align="center">    
-    <b><h2>👋 Hi there</h2></b>
+<p align="center">
+    <font size="36">
+        <b>👋 Hi there</b>
 </p>
 <hr>
 
@@ -12,7 +13,7 @@
 - 📫 How to reach me: linkedin.com/in/jampier-ventura-hernandez
 <hr>
 <p align="center">
-  <h2>🔥 Stats</h2>
+  <b>🔥 Stats</b>
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JampiV&theme=synthwave&hide_border=true&border_radius=3.8&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000)
