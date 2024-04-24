@@ -11,6 +11,7 @@
 - 👯 I'm looking to collaborate on Web & Mobile Projects
 - 📫 How to reach me: linkedin.com/in/jampier-ventura-hernandez
 <hr>
+
 <p align="center">
   <b>🔥 Stats</b>
 </p>
