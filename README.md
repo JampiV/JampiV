@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 👂 I'm Jampier
+- ⚡ I'm 22 years old
+- 😄 Pronouns: He/Him,
+- 🔭 I'm currently working on Unity Project
+- 🌱 I'm currently learning C#
+- 👯 I'm looking to collaborate on Web & Mobile Projects
+- 📫 How to reach me: linkedin.com/in/jampier-ventura-hernandez
 
 <!--
 **JampiV/JampiV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
