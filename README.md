@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on Unity Project
 - 🌱 I'm currently learning C#
 - 👯 I'm looking to collaborate on Web & Mobile Projects
-- 📫 How to reach me: linkedin.com/in/jampier-ventura-hernandez
+- 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/jampier-ventura-hernandez/))
 
 <p>
         <h2 align="center">🔥 Stats</h2>
