@@ -20,6 +20,6 @@
         <h2 align="center">⚒️ Skills & Tools</h2>
 </p>
 
-| <a target="_blank">Spring Boot</a> | <a target="_blank">Angular</a> | <a target="_blank">Unity</a> | <a target="_blank">Firebase</a> |<a target="_blank">PostgreeSql</a> | <a target="_blank">Loombok</a> |
+| <a target="_blank">Spring Boot</a> | <a target="_blank">Angular</a> | <a target="_blank">Unity</a> | <a target="_blank">Firebase</a> |<a target="_blank">PostgreeSql</a> | <a target="_blank">Lombok</a> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 <img align='center' src='https://github.com/JampiV/JampiV/blob/main/ico/px_springboot.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/JampiV/JampiV/blob/main/ico/px_angular.png?raw=true' height='100px'>  | <img align='center' src='https://github.com/JampiV/JampiV/blob/main/ico/px_unity.png?raw=true' width="100px" height='100px'> | <img align='center' src='https://github.com/JampiV/JampiV/blob/main/ico/px_firebase.png?raw=true' width="100px" height='100px'> | <img align='center' src='https://github.com/JampiV/JampiV/blob/main/ico/px_postgreesql.png?raw=true' width="100px" height='100px'> | <img align='center' src='https://github.com/JampiV/JampiV/blob/main/ico/px_loombk.png?raw=true' width="100px" height='100px'> |
